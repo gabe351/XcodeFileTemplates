@@ -20,7 +20,7 @@ If you don't have any file template run:
 Demo of our available templates
 
 <p>
-<img src="https://github.com/gabe351/XcodeFileTemplates/blob/master/screenshots/openFile.mp4">
+<img src="https://github.com/gabe351/XcodeFileTemplates/blob/master/screenshots/fileTemplateCreation.gif">
 </p>
 
 ### Swift class
