@@ -17,7 +17,7 @@ If you don't have any file template run:
 
 ## Available templates
 
-Demo of our available templates
+Available templates demo
 
 <p>
 <img src="https://github.com/gabe351/XcodeFileTemplates/blob/master/screenshots/fileTemplateCreation.gif">
