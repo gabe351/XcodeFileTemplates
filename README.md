@@ -12,14 +12,16 @@ If you don't have any file template run:
 * Open your XCode and create a new file: 
 
 <p>
-<img src="https://github.com/gabe351/XcodeFileTemplates/blob/master/screenshots/Screen%20Shot%202019-04-18%20at%2009.41.19.png" width="150">
+<img src="https://github.com/gabe351/XcodeFileTemplates/blob/master/screenshots/Screen%20Shot%202019-04-18%20at%2009.41.19.png">
 </p>
 
 ## Available templates
 
 Demo of our available templates
 
-GIF with create action
+<p>
+<img src="https://github.com/gabe351/XcodeFileTemplates/blob/master/screenshots/openFile.mp4">
+</p>
 
 ### Swift class
 
