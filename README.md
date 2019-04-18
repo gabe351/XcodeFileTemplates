@@ -11,8 +11,9 @@ If you don't have any file template run:
 
 * Open your XCode and create a new file: 
 
-I M A G E
-
+<p>
+<img src="https://github.com/gabe351/XcodeFileTemplates/blob/master/screenshots/Screen%20Shot%202019-04-18%20at%2009.41.19.png" width="150">
+</p>
 
 ## Available templates
 
