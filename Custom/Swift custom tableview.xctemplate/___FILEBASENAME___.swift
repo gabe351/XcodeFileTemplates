@@ -20,7 +20,7 @@ class ___FILEBASENAMEASIDENTIFIER___: UITableView, UITableViewDelegate, UITableV
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
 //        Setup your custom cell
 //        let cell = tableView.dequeueReusableCell(withIdentifier: customCell.identifier, for: indexPath) as? CustomCell
-//        guard let vehicleCell = cell else { return UITableViewCell() }        
+//        guard let cell = cell else { return UITableViewCell() }        
         return UITableViewCell()
     }
 }
